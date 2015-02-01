@@ -10,4 +10,4 @@ require 'init_autoloader.php';
 
 // Run the application!
 Zend\Mvc\Application::init(require 'config/application.config.php')->run();
-// Testing235 This will be deleted
+// Testing235
