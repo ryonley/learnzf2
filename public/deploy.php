@@ -1,11 +1,5 @@
 <?php
-/**
- * GIT DEPLOYMENT SCRIPT
- *
- * Used for automatically deploying websites via github or bitbucket, more deets here:
- *
- *		https://gist.github.com/1809044
- */
+file_put_contents('text.txt', 'this is a test');
 
 // The commands
 $commands = array(
