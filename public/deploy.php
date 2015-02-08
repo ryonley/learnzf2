@@ -1,5 +1,5 @@
 <?php
-file_put_contents('text.txt', 'this is a test');
+file_put_contents('test.txt', 'this is a test');
 
 // The commands
 $commands = array(
